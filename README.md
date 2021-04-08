@@ -92,6 +92,11 @@ g++ installed or Visual Studio with C++ extention
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Run Program
+   ```sh
+   g++ scclone.cpp
+   ```
+Output:
 [image]
 
 
