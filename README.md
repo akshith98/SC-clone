@@ -92,7 +92,7 @@ g++ installed or Visual Studio with C++ extention
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
+[image]
 
 
 <!-- LICENSE -->
@@ -127,4 +127,5 @@ Project Link: [https://github.com/akshith98/SC-clone](https://github.com/akshith
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[image]: https://github.com/akshith98/SC-clone/blob/main/Usage-Image.png
 
