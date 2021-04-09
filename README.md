@@ -92,9 +92,13 @@ g++ installed or Visual Studio with C++ extention
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Run Program
+Run Program As Administrator
    ```sh
    g++ scclone.cpp
+   ```
+   or Run
+   ```sh
+   scclone.exe
    ```
 Output:
 [image]
